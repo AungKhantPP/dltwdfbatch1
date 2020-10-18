@@ -1,0 +1,22 @@
+/*universal selector*/
+*{cursor:pointer;}
+.firstdiv{font-size:50px;
+cursor:pointer;
+width:800px
+;
+height: 200px;
+background:rgba(127,127,127,0.9);
+/*opacity:0.3;}*/
+border:5px;
+border-style:dotted;
+margin:100px auto;}
+
+
+.seconddiv{
+	color:green;
+	width:500px;
+	height:300px;
+	font-size: 40px;
+	backgroung-image:url(../img/background/bg1.jpg);
+    
+}
